@@ -5,7 +5,7 @@
 
 <Header />
 
-<main>
+<main class="content">
 	<p>
 		I am now a year 12
 	  </p>
@@ -14,10 +14,12 @@
 		My interests include:
 	  </p>
 	  
-	  <ul>
+	  <div class="content">
+	  <ol class="is-upper-alpha">
 		<li>art</li>
 		<li>music</li>
 		<li>food</li>
-	  </ul>
+	  </ol>
+	</div>
 </main>
 <Footer />
