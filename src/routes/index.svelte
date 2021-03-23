@@ -6,10 +6,10 @@
 <Header />
 
 <main class=" content is-size-3 ml-6 mt-6">
-	<p >I am now a year 12. My interests include:</p>
+	<p>I am now a year 12. My interests include:</p>
 
 	<div>
-		<ol >
+		<ol>
 			<li>art</li>
 			<li>music</li>
 			<li>food</li>
